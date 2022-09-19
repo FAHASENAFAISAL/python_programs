@@ -1,0 +1,4 @@
+anu,1,cse
+amal,2,cse
+arun,8,ece
+akhil,3,eee
