@@ -1,37 +1,7 @@
 #option 1.add 2.sub 3.mul 4. div 5.stop
 #num1=200 and num2=100
 
-# def addoper():
-#     add=num1+num2
-#     print(add)
-# def suboper():
-#     sub=num1-num2
-#     print(sub)
-# def muloper():
-#     mul=num1*num2
-#     print(mul)
-# def divoper():
-#     div=num1/num2
-#     print(div)
-# while True:
-#     print("Enter your option 1.ADD 2.Substract 3.Multiplication 4.Division 5.Exit")
-#     opt = int(input())
-#     if opt==5:
-#         break
-#     num1 = int(input("Enter 2 numbers"))
-#     num2 = int(input())
-#     if opt==1:
-#         addoper()
-#     elif opt==2:
-#         suboper()
-#     elif opt==3:
-#         muloper()
-#     elif opt==4:
-#         divoper()
-#     else:
-#         print("invalid")
 
-#miss code
 def add(n1,n2):
     print(n1+n2)
 def sub(n1,n2):
